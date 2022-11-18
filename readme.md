@@ -2,3 +2,8 @@
 
 Practica de maquetado usando HTML y CSS, incluyendo conceptos como position y flexbox.
 
+# Demo Fixture
+
+Demo del proyecto: [Fixture Qatar 2022](https://rollingcodeschool.github.io/fixtureMundial/)
+
+
